@@ -1,4 +1,4 @@
-# go-ssh-
+# go-ssh-terminal
 
 ssh 客户端
 第一版：
